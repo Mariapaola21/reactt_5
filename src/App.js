@@ -1,25 +1,45 @@
-import logo from './logo.svg';
-import './App.css';
+// import React from "react";
+// import HeaderTail from "./HeaderTail";
+// import ProfileCard3 from "./Componentes/ProfileCard3";
+// import ProfileCard2 from "./ProfileCard2"
+// import ProfileCard from "./ProfileCard";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+// function App() {
+//   return(
+//     <div>
+//       <h1>Mi primera card</h1>
+//       <ProfileCard/>
+//     </div>
+//   );
+// }
 
-export default App;
+// export default App;
+
+// function App (){
+//   return(
+//     <div>
+//       <h1>Mi segunda card</h1>
+//       <ProfileCard2/>
+//     </div>
+//   );
+// }
+// export default App;
+
+// function App() {
+//     return (
+//         <div>
+//             <h1> Mi tercera card</h1>
+//             <ProfileCard3/>
+//         </div>
+//     );
+// }
+// export default App;
+
+// function App() {
+//     return(
+//         <div>
+//             <HeaderTail/>
+//         </div>
+//     );
+// }
+// export default App;
